@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-videointelligence/#history
 
+## [2.6.0](https://github.com/googleapis/python-videointelligence/compare/v2.5.1...v2.6.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#268](https://github.com/googleapis/python-videointelligence/issues/268)) ([a35f538](https://github.com/googleapis/python-videointelligence/commit/a35f538ae5595fb15112025e69661f0484317294))
+
 ### [2.5.1](https://www.github.com/googleapis/python-videointelligence/compare/v2.5.0...v2.5.1) (2021-11-01)
 
 
